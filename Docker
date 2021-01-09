@@ -1,0 +1,3 @@
+From tomcat:8.0.20-jre8
+#dummy text to test
+Copy target/java-web-app*.war/user/local/tomcat/webapps/java-web-app.war
